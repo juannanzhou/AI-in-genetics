@@ -3,7 +3,8 @@
 This github repo contains the teaching material for the course 'AI in genetics'. 
 
 
-
+**Course schedule
+**
 | Date       | Day |   | Week | Subject                | Topics                                       |
 |------------|-----|---|------|------------------------|----------------------------------------------|
 | 8/22/2024  | R   | 5 | 0    | Course introduction     | Basics                                       |
