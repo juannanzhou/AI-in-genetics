@@ -1,3 +1,8 @@
+# Announcements
+
+Please choose your discussion paper by 9/26. 
+Please share with me your final project idea by 10/1, by emailing me with the title: "AI in genetics - project idea - YOUR NAME". 
+
 # AI-in-genetics
 
 This github repo contains the teaching material for the course 'AI in genetics'. 
