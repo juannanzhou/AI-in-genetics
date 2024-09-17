@@ -13,10 +13,10 @@ This github repo contains the teaching material for the course 'AI in genetics'.
 | 9/3/2024   | T   | 2 | 2    | Machine learning basics | Multi linear perceptron; Backprop; Autodiff; Gradient descent |
 | 9/5/2024   | R   | 5 | 2    | Machine learning basics | Multi linear perceptron; Backprop; Autodiff; Gradient descent |
 | 9/10/2024  | T   | 2 | 3    | Machine learning basics | Training neural networks; Regularization     |
-| 9/12/2024  | R   | 5 | 3    | Machine learning basics | Convolutional neural networks                |
-| 9/17/2024  | T   | 2 | 4    | Machine learning basics | Language models; RNNs; Transformers          |
-| 9/19/2024  | R   | 5 | 4    | Machine learning basics | Graphical neural networks; Generative models |
-| 9/24/2024  | T   | 2 | 5    | Machine learning basics | Generative models                            |
-| 9/26/2024  | R   | 5 | 5    | Machine learning basics | Non-parametric methods; Gaussian processes   |
+| 9/12/2024  | R   | 5 | 3    | Machine learning basics | Training neural networks; Regularization     |
+| 9/17/2024  | T   | 2 | 4    | Machine learning basics | Convolutional neural networks                |
+| 9/19/2024  | R   | 5 | 4    | Machine learning basics | Convolutional neural networks                |
+| 9/24/2024  | T   | 2 | 5    | Machine learning basics | Language models; RNNs; Transformers          |
+| 9/26/2024  | R   | 5 | 5    | Machine learning basics | Language models; RNNs; Transformers          |
 
 ** Link to logistic regression example: https://colab.research.google.com/drive/1pFEQjzfXl6n_FuHBF_Wz3XLDpVAjk29X?usp=sharing
