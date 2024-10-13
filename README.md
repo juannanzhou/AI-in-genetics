@@ -26,3 +26,5 @@ This github repo contains the teaching material for the course 'AI in genetics'.
 | 9/26/2024  | R   | 5 | 5    | Machine learning basics | Language models; RNNs; Transformers          |
 
 ** Link to logistic regression example: https://colab.research.google.com/drive/1pFEQjzfXl6n_FuHBF_Wz3XLDpVAjk29X?usp=sharing
+
+** Link to BERT example (genotype imputation): https://drive.google.com/file/d/1mfQYWppbWvA66clQdA99Vl12P6NHCq7Z/view?usp=sharing
